@@ -37,7 +37,6 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: info@georges.live
 #twitter:            username
 facebook: No.10110
 #github-url:         username
@@ -62,6 +61,7 @@ weibo: 6615331504
 #xmpp:              username@server.com
 #hackernews:        username
 vk: user
+email: info@georges.live
 
 # Gems
 gems:
