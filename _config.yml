@@ -1,7 +1,7 @@
 # Site
 title:              George's
 bio:                'Lessons, Music & Sonic Art'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+description:        "I am George."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,9 +37,9 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-email:
+email: info@georges.live
 #twitter:            username
-facebook:           username
+facebook: No.10110
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -54,8 +54,8 @@ facebook:           username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
+soundcloud: user-370907202
+weibo: 6615331504
 #flickr:            username
 #codepen:           username
 #keybase:           username
