@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Russian Music"
-date: 2019-01-21
-excerpt: "......"
-tag: [sample post, readability, test]
+title: ""
+date: 2019-02-16
+excerpt: "Performing Russian Music at the National Multicultural Festival with Russian Friends"
+tag: [gigs]
 comments: false
 ---
 
