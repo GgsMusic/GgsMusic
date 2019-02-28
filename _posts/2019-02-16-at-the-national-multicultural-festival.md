@@ -10,7 +10,7 @@ comments: false
 {% capture images %}
 	https://georges.live/photos/2019_national_multicultural_festival/our-group.jpg
 {% endcapture %}
-{% include gallery images=images caption="Test images" cols=1 %}
+{% include gallery images=images caption="" cols=1 %}
     
 ## Installation
 * Fork the [Moon repo](https://github.com/TaylanTatli/Moon/fork)
