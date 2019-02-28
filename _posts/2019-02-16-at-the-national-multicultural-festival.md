@@ -8,7 +8,7 @@ comments: false
 ---
 
 {% capture images %}
-	https://georges.live/photos/our-group.jpg
+	https://georges.live/photos/2019_national_multicultural_festival/our-group.jpg
 {% endcapture %}
 {% include gallery images=images caption="Test images" cols=1 %}
     
