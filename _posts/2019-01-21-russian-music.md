@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Russian Music"
-date:   2019-01-21
+title: "Russian Music"
+date: 2019-01-21
 excerpt: "......"
-project: false
-tag:[sample post, readability, test]
-comments: true
+tag: [sample post, readability, test]
+comments: false
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
