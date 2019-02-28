@@ -4,12 +4,7 @@ title:  "Russian Music"
 date:   2019-01-21
 excerpt: "......"
 project: false
-tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+tag:[sample post, readability, test]
 comments: true
 ---
 
