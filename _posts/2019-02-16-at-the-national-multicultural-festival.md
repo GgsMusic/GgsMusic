@@ -9,10 +9,6 @@ comments: false
 
 {% capture images %}
 	https://georges.live/photos/2019_national_multicultural_festival/our-group.jpg
-{% endcapture %}
-{% include gallery images=images caption="" cols=1 %}
-
-{% capture images %}
 	https://georges.live/photos/2019_national_multicultural_festival/w-varvara.jpg
 	https://georges.live/photos/2019_national_multicultural_festival/w-varvara-close.jpg
 {% endcapture %}
