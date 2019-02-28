@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ""
+title: "At the National Multicultural Festival"
 date: 2019-02-16
-excerpt: "Performing Russian Music at the National Multicultural Festival with Russian Friends"
+excerpt: "Performing Russian Folk Tunes at the National Multicultural Festival with Russian Friends"
 tag: [gigs]
 comments: false
 ---
