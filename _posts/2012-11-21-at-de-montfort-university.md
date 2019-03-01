@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "At the Canberra International Music Festival"
-date: 2018-05-02
-excerpt: "Exhibiting my sound installation, Yellow, at the National Arboretum in a Musical Constitutional at the Canberra International Music Festival."
-tag: [exhibitions]
+title: "At De Montfort University"
+date: 2012-11-21
+excerpt: "Performing my multimedia work at De Montfort University, UK."
+tag: [gigs]
 comments: false
 ---
 
