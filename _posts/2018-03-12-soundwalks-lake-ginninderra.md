@@ -13,4 +13,4 @@ comments: false
 	https://georges.live/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_3.jpg
 	https://georges.live/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_4.jpg
 {% endcapture %}
-{% include gallery images=images caption="" cols=2 %}
+{% include gallery images=images caption="" cols=1 %}
