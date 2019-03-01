@@ -3,7 +3,7 @@ layout: page
 title: About
 tags: []
 date: 2012-01-01
-feature: https://georges.live/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_2.jpg
+feature: https://georges.live/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_1.jpg
 comments: false
 ---
 
