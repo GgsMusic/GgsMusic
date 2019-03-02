@@ -3,7 +3,7 @@ layout: page
 title: About
 tags: []
 date: 2012-01-01
-feature: https://georges.live/photos/about/feature.jpg
+feature: https://georges.live/photos/about/feature.png
 comments: false
 ---
 
