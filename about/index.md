@@ -9,7 +9,7 @@ comments: false
 
 Hey there!
 
-I am George, a music tutor, musician and sonic artist.
+I am George (aka Yeh Z.), a music tutor, musician and sonic artist.
 
 {% capture images %}
 	https://georges.live/photos/about/me.jpg
