@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-# disqus_shortname:   taylantatli
+# disqus_shortname:  
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -46,7 +46,7 @@ facebook: No.10110
 #xing:              username
 #instagram:          username
 #lastfm:            username
-tumblr:            george-music
+#tumblr:            george-music
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
@@ -55,7 +55,7 @@ tumblr:            george-music
 #youtube:           username
 #youtube-channel:   channel
 soundcloud: user-370907202
-weibo: 6615331504
+#weibo: 6615331504
 #flickr:            username
 #codepen:           username
 #keybase:           username
