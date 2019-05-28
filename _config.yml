@@ -8,7 +8,7 @@ logo:               'assets/img/photo.jpg'
 background:         'assets/img/noise.jpg'
 tiled_bg:           true
 locale:             en_AU
-url:                http://gmusic.net.au
+url:                https://gmusic.net.au
 
 # Jekyll
 permalink:          /:title/
