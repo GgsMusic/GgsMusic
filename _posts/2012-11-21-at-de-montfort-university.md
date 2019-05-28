@@ -8,8 +8,8 @@ comments: false
 ---
 
 {% capture images %}
-	https://georges.live/photos/2012_at_de_montfort_university/dmu1.jpg
-	https://georges.live/photos/2012_at_de_montfort_university/dmu2.jpg
-	https://georges.live/photos/2012_at_de_montfort_university/dmu3.jpg
+	http://gmusic.net.au/photos/2012_at_de_montfort_university/dmu1.jpg
+	http://gmusic.net.au/photos/2012_at_de_montfort_university/dmu2.jpg
+	http://gmusic.net.au/photos/2012_at_de_montfort_university/dmu3.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
