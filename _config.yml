@@ -5,7 +5,7 @@ description:        "Hey there! I am George Zhao, a music tutor, musician and so
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/photo.jpg'
-background:         'assets/img/bkg.jpg'
+background:         'assets/img/bkg.png'
 tiled_bg:           true
 locale:             en_AU
 url:                https://gmusic.net.au
