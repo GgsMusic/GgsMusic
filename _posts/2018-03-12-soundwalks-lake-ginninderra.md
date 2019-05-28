@@ -8,9 +8,9 @@ comments: false
 ---
 
 {% capture images %}
-	http://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_1.jpg
-	http://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_2.jpg
-	http://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_3.jpg
-	http://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_4.jpg
+	https://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_1.jpg
+	https://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_2.jpg
+	https://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_3.jpg
+	https ://gmusic.net.au/photos/2018_soundwalks_lake_ginninderra/lake_ginninderra_4.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}

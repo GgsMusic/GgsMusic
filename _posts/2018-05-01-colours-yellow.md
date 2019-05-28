@@ -13,7 +13,7 @@ What colour can be found in an autumn day?
 What sound can be heard in an autumn day?
 
 {% capture images %}
-	http://gmusic.net.au/photos/2018_colours_yellow/yellow_leaves.jpg
+	https://gmusic.net.au/photos/2018_colours_yellow/yellow_leaves.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
 
@@ -22,8 +22,8 @@ Yellow, a sound installation, aims to explore the organisation of found sounds f
 In today’s urban life, many beautiful sounds are often ignored, because we are too busy to listen; also, due to the noise pollution, the sonic environment is occupied by loud noises. Autumn is colourful in Canberra; the leaves turn to yellow. We can easily notice the change of colour; however, we often ignore the sounds of yellow leaves. I recorded these sounds of dry leaves, including the steps, showering and wind blowing. I edited them, and coded them in the cSound platform. Finally, I took them back to the environment via two of my homemade speakers.
 
 {% capture images %}
-	http://gmusic.net.au/photos/2018_colours_yellow/yellow_1.jpg
-	http://gmusic.net.au/photos/2018_colours_yellow/yellow_2.jpg
-	http://gmusic.net.au/photos/2018_colours_yellow/yellow_3.jpg
+	https://gmusic.net.au/photos/2018_colours_yellow/yellow_1.jpg
+	https://gmusic.net.au/photos/2018_colours_yellow/yellow_2.jpg
+	https://gmusic.net.au/photos/2018_colours_yellow/yellow_3.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}

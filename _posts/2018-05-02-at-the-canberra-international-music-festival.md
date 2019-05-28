@@ -8,7 +8,7 @@ comments: false
 ---
 
 {% capture images %}
-	http://gmusic.net.au/photos/2018_canberra_international_music_festival/yellow.jpg
-	http://gmusic.net.au/photos/2018_canberra_international_music_festival/flyer.jpg
+	https://gmusic.net.au/photos/2018_canberra_international_music_festival/yellow.jpg
+	https://gmusic.net.au/photos/2018_canberra_international_music_festival/flyer.jpg
 {% endcapture %}
 {% include gallery images=images caption="" cols=1 %}
