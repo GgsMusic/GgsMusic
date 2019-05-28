@@ -3,7 +3,7 @@ layout: page
 title: About
 tags: []
 date: 2012-01-01
-#feature: https://gmusic.net.au/photos/about/feature.jpg
+[//]: # (feature: https://gmusic.net.au/photos/about/feature.jpg)
 comments: false
 ---
 
