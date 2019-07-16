@@ -9,7 +9,7 @@ comments: false
 
 Hey there!
 
-I am George Zhao, a Canberra-based music tutor, musician and sonic artist.
+I am George Zhao, a Canberra-based instrumental tutor & sonic artist.
 
 {% capture images %}
 	https://gmusic.net.au/photos/about/me.jpg
